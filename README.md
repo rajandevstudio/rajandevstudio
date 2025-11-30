@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Rajan — Backend Developer (Python | FastAPI | Django)
 
-<!--
-**rajandevstudio/rajandevstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **robust, scalable, and well-documented backend systems** for startups and businesses.  
+My focus is on **APIs, automation, integrations, and dashboards** using Python.
 
-Here are some ideas to get you started:
+### 🚀 What I Do
+- API development (FastAPI / Django REST Framework)
+- Payment gateway integrations (Razorpay, Stripe)
+- Backend automation (email, WhatsApp, data workflows)
+- Database design & optimization (PostgreSQL, MySQL)
+- Deployments on Render, DigitalOcean, AWS, Vercel
+- ML-powered automation (text classification, summarization) [In Progress]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+**Python**, FastAPI, Django, PostgreSQL, MySQL, Redis, Docker,  
+Render, DigitalOcean, GitHub Actions, Pandas, Scikit-learn
+
+### 📌 Featured Projects
+- 🧩 **FastAPI Auth + CRUD API** → Clean, scalable, deployed  
+- 💳 **Razorpay Integration Demo** → End-to-end payments  
+- ⚙️ **Automation Script + Dashboard** → Reports & insights  
+
+### 📫 Contact Me
+📧 Email: **rajandevstudio@gmail.com**  
+🔗 LinkedIn: https://linkedin.com/in/rajandevstudio  
+
+Open to freelance projects & collaborations 🚀
