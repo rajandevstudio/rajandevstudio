@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rajan — Backend Developer (Python | FastAPI | Django)
+# 👋 Hi, I'm Rajan — Backend Developer (Python | Flask | FastAPI | Django)
 
 I build **robust, scalable, and well-documented backend systems** for startups and businesses.  
 My focus is on **APIs, automation, integrations, and dashboards** using Python.
@@ -12,8 +12,8 @@ My focus is on **APIs, automation, integrations, and dashboards** using Python.
 - ML-powered automation (text classification, summarization) [In Progress]
 
 ### 🛠 Tech Stack
-**Python**, FastAPI, Django, PostgreSQL, MySQL, Redis, Docker,  
-Render, DigitalOcean, GitHub Actions, Pandas, Scikit-learn
+**Python**, FastAPI, Flask, Django, PostgreSQL, MySQL, Redis, Docker,  
+Pandas, Scikit-learn
 
 ### 📌 Featured Projects
 - 🧩 **FastAPI Auth + CRUD API** → Clean, scalable, deployed  
@@ -22,6 +22,6 @@ Render, DigitalOcean, GitHub Actions, Pandas, Scikit-learn
 
 ### 📫 Contact Me
 📧 Email: **rajandevstudio@gmail.com**  
-🔗 LinkedIn: https://linkedin.com/in/rajandevstudio  
+🔗 LinkedIn: **https://github.com/rajandevstudio**
 
 Open to freelance projects & collaborations 🚀
