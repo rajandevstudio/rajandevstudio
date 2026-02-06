@@ -8,7 +8,7 @@ My focus is on **APIs, automation, integrations, and dashboards** using Python.
 - Payment gateway integrations (Razorpay, Stripe)
 - Backend automation (email, WhatsApp, data workflows)
 - Database design & optimization (PostgreSQL, MySQL)
-- Deployments on Render, DigitalOcean, AWS, Vercel
+- Deployments on Render, AWS, Vercel and GCP
 - ML-powered automation (text classification, summarization) [In Progress]
 
 ### 🛠 Tech Stack
