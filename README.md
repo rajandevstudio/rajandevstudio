@@ -21,7 +21,7 @@ Pandas, Scikit-learn
 - ⚙️ **Automation Script + Dashboard** → Reports & insights  
 
 ### 📫 Contact Me
-📧 Email: **rajandevstudio@gmail.com**  
-🔗 LinkedIn: **https://github.com/rajandevstudio**
+📧 Email: **bagoriarajan@gmail.com** | **rajandevstudio@gmail.com**  
+🔗 LinkedIn: **[https://github.com/rajandevstudio](https://www.linkedin.com/in/rajan-b-dev/)**
 
-Open to freelance projects & collaborations 🚀
+Open to freelance projects & collaborations as well as full time contribution 🚀
